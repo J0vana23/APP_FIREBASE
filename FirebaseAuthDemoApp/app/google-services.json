@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "611352211472",
+    "project_id": "fir-authdemoapp-58d24",
+    "storage_bucket": "fir-authdemoapp-58d24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611352211472:android:f14b371ebafce7f3239a95",
+        "android_client_info": {
+          "package_name": "com.example.database_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWcbBN8GMkXJcRfF_VwFjquPjt35Sjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611352211472:android:977d0c0dea25bda0239a95",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWcbBN8GMkXJcRfF_VwFjquPjt35Sjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611352211472:android:b6f6cf3a94522289239a95",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWcbBN8GMkXJcRfF_VwFjquPjt35Sjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
